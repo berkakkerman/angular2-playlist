@@ -1,7 +1,6 @@
-![](angular2-png)
+![alt tag](http://url/to/img.png)
 
-This is a base template for Angular 2. It contains the core files you will need when starting an Angular 2 project.
-To get started, follow the instructions below.
+This is a simple playlist. Check out this tuttorial(https://www.youtube.com/watch?v=hXfigUyeHaY&list=PL6gx4Cwl9DGBYxWxJtLi8c6PGjNKGYGZZ) for further information.
 
 ### Install Node.js and npm
 
@@ -14,7 +13,7 @@ https://nodejs.org/en/download/
 
 Clone this repo into a new project folder. You may also download it as a ZIP file.
 
-https://github.com/buckyroberts/angular2-playlist.git
+https://github.com/berkakkerman/angular2-playlist.git
 
 ### Install Libraries and Dependencies
 
