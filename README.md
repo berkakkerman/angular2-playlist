@@ -1,6 +1,6 @@
-![alt tag](http://url/to/img.png)
+![alt tag](https://raw.githubusercontent.com/berkakkerman/angular2-playlist/master/angular2-playlist.png)
 
-This is a simple playlist. Check out this tuttorial(https://www.youtube.com/watch?v=hXfigUyeHaY&list=PL6gx4Cwl9DGBYxWxJtLi8c6PGjNKGYGZZ) for further information.
+This is a simple playlist. Check out this tuttorial (https://www.youtube.com/watch?v=hXfigUyeHaY&list=PL6gx4Cwl9DGBYxWxJtLi8c6PGjNKGYGZZ) for further information.
 
 ### Install Node.js and npm
 
